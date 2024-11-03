@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "app-barberos",
-    "slug": "snack-8dd739f8-b7e8-4659-aef8-c3f30eebcec4",
+    "slug": "app-barberos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,18 +18,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.dxgabalt.snack8dd739f8b7e84659aef8c3f30eebcec4"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "description": "App Barberos",
-    "entryPoint": "./App.js",
-    "extra": {
-      "eas": {
-        "projectId": "b5affebd-b970-415b-88ee-7f71ab612cc7"
-      }
     }
   }
 }
